@@ -3,7 +3,7 @@ class CalcController {
     constructor(){
 
         this.lastOperator = '';
-        this.lastNumber = '';
+        this.lastNumber = '';///
 
         this._operation = [];
         this._locale = 'pt-BR';
